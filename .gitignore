@@ -1,0 +1,29 @@
+# IDEA
+.idea
+.idea/*
+
+# USER
+*.user
+
+# Settings
+*.DotSettings
+
+# OBJECT
+obj
+obj/*
+
+# BIN
+bin
+bin/*
+
+# PACKAGE
+packages
+packages/*
+
+# BUILDED PACKAGE
+*.exe
+/.vs/EngineGL
+
+# VS
+.vs
+.vs/*
